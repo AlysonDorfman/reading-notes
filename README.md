@@ -16,6 +16,6 @@
 
 3. Celebrate Milestones: Recognize your achievements in software development, even the small ones. Completing a project module or solving a complex bug are steps forward in your growth as a software engineer. Acknowledge and celebrate these milestones to stay motivated.
 
-##Table of Contents
+## Table of Contents
 
 1. [Read 01 Notes: Learning Markdown]
