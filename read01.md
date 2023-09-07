@@ -24,10 +24,10 @@ How many do you need to create the smallest heading?
 You need six '#' symbols to create the smallest heading.
 
 When making text bold or italicized for emphasis, it is best practice to use which symbol?
-To make text bold, it's best practice to use two asterisks (e.g., bold text). For italics, use one asterisk (e.g., italic text).
+To make text bold, it's best practice to use two asterisks. For italics, use one asterisk.
 
 How do you create a link with Markdown?
-To create a link in Markdown, you wrap the link text in square brackets '[]' and follow it with the URL in parentheses '()'. For example, Link Text.
+To create a link in Markdown, you wrap the link text in square brackets '[]' and follow it with the URL in parentheses '()'. 
 
 What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 You can create an unordered (bulleted) list in Markdown using '-', '*', or '+'.
