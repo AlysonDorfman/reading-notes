@@ -18,4 +18,4 @@
 
 ## Table of Contents
 
-1. [Read 01 Notes: Learning Markdown]
+1. [Read 01 Notes: Learning Markdown](read01.md)
