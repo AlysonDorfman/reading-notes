@@ -15,3 +15,7 @@
 2. Progress Over Perfection: Don't aim for perfect code; aim for progress. Understand that writing bug-free code isn't always possible, but each coding session is a chance to learn and refine your skills.
 
 3. Celebrate Milestones: Recognize your achievements in software development, even the small ones. Completing a project module or solving a complex bug are steps forward in your growth as a software engineer. Acknowledge and celebrate these milestones to stay motivated.
+
+##Table of Contents
+
+1. [Read 01 Notes: Learning Markdown]
