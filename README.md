@@ -1,4 +1,4 @@
-# :writing_hand: My reading journal for Code Fellows
+# ✍️ My reading journal for Code Fellows
 
 :wave: Hello, all! My name is Alyson Dorfman (she/her), I'm living in the Lake Tahoe area of California, originally from Seattle. My background is in business development within healthcare. Previous experience includes leading the expansion of a Texas-based healthcare group into Seattle and partnering with large employer groups like Costco and REI.  I'm excited for this class to break into the tech industry and expand my knowledge. Can't wait to see what we can do with emerging AI, too! I'm currently running Windows 11 Home 22H2 on a Microsoft Surface. Looking forward to working with you all!
 
