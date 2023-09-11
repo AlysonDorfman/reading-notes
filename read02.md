@@ -70,5 +70,39 @@ Linux is Case sensitive, Space sensitive and Quote sensitive.
 ls -a
 List the contents of a directory, including hidden files.
 
+## Canvas Questions Answered
+
+Things to look for in a text editor:
+
+* Code Completion 
+* Shorthand (Emmet for HTML and CSS)
+* Syntax Highlighting (Color Coding)
+* Themes
+* Extensions
+
+Commands and their explanations:
+
+pwd (Print Working Directory): This command prints the current directory's full path to the terminal, showing you where you are in the file system.
+
+ls (List): This command lists the files and directories in the current directory.
+
+cd (Change Directory): This command is used to change the current working directory to the specified directory.
+
+mkdir (Make Directory): This command is used to create a new directory/folder in the current location.
+
+touch: This command is used to create an empty file with the given name.
+
+Scenario Explanation:
+
+cd projects: This command changes the current working directory to the "projects" directory.
+
+mkdir new-project: This command creates a new directory called "new-project" inside the "projects" directory.
+
+touch new-project/newfile.md: This command creates an empty file named "newfile.md" inside the "new-project" directory.
+
+cd ..: This command moves back one level in the directory hierarchy, so you would be in the "projects" directory again.
+
+ls projects/new-project: This command lists the contents of the "new-project" directory, showing any files or subdirectories it contains.
+
 
 
