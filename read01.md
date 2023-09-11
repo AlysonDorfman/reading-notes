@@ -31,3 +31,5 @@ To create a link in Markdown, you wrap the link text in square brackets '[]' and
 
 What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 You can create an unordered (bulleted) list in Markdown using '-', '*', or '+'.
+
+![Profile Picture](Untitled design (20).png)
