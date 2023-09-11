@@ -2,6 +2,7 @@
 
 # Read: 02 - The Coder's Computer
 
+
 ## Choosing a Text Editor
 
 ### Things to look for: 
@@ -29,3 +30,23 @@ There exist text editors that come built into operating systems, but they usuall
 IDE: Integrated Development Enviroment
 
 An IDE is a text editor **and**, in addition, a file manager, compiler, and debugger. Just like MSFT Outlook is not just email, it's also a calendar, task manager, etc. It's a whole suite of software.
+
+## The Command Line
+Your window into the computer.
+
+The Command Line aka The Terminal mirrors your computer's File Folder. Instead of having a graphical user interface (GUI) where you can click around and see what you're doing easily, it has a Command Line Interface (CLI) that functions with the commands you enter through text.
+
+Within the terminal, there is a prompt, after which you enter your command and any command line arguments or "options," which are simply modifications to your command. 
+
+To open a terminal: Search Terminal in your computer's search bar, and open the application.
+
+Bash is the most common shell, or element responsible for running your commands in the terminal. 
+
+A shortcut: The terminal stores a list of your commands. So if you want to repeat a recent command, type the up arrow to flip through a bunch of your recent commands. 
+
+## Basic Navigation
+Let's Explore the System
+
+
+
+
