@@ -47,6 +47,11 @@ A shortcut: The terminal stores a list of your commands. So if you want to repea
 ## Basic Navigation
 Let's Explore the System
 
+Commands:
+ * **pwd**: Print Working Directory, where are we in the system since we can't see it
+ * **ls**: List of what's here
+ * **/etc**: Instead of listing the directories, list their content. When used like this: ls /etc
 
+Paths: Absolute = specifies exactly where, Relative = specifies a file name from your current position in the system and will produce a different outcome depending on that position in the system
 
 
