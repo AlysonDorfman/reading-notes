@@ -19,3 +19,4 @@
 ## Table of Contents
 
 1. [Read 01 Notes: Learning Markdown](read01.md)
+2. [Read 02 Notes: The Coder's Computer](read02.md)
