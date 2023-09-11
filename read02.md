@@ -45,13 +45,30 @@ Bash is the most common shell, or element responsible for running your commands 
 A shortcut: The terminal stores a list of your commands. So if you want to repeat a recent command, type the up arrow to flip through a bunch of your recent commands. 
 
 ## Basic Navigation
-Let's Explore the System
+Let's explore the system
 
 Commands:
  * **pwd**: Print Working Directory, where are we in the system since we can't see it
  * **ls**: List of what's here
  * **/etc**: Instead of listing the directories, list their content. When used like this: ls /etc
+ * **cd**: Change Directory
+ * **file [path]** What type of file
+ * **\\**  nullify special meaning of next character
 
 Paths: Absolute = specifies exactly where, Relative = specifies a file name from your current position in the system and will produce a different outcome depending on that position in the system
+Shortcuts: **~** is Home Directory, **.** is Current Directory, **..** is Parent Directory
+
+## More About Files
+Kinda boring, but essential knowledge.
+
+Everything is a file: your keyboard, text, an image, etc. 
+
+Extensionless System: Linux doesn't use file extensions like .png, but you can use the command **file [path]** to find that out.
+
+Linux is Case sensitive, Space sensitive and Quote sensitive.
+
+ls -a
+List the contents of a directory, including hidden files.
+
 
 
