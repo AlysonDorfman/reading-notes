@@ -1,14 +1,14 @@
 # ✍️ My reading journal for Code Fellows
 
-:wave: Hello, all! My name is Alyson Dorfman (she/her), I'm living in the Lake Tahoe area of California, originally from Seattle. My background is in business development within healthcare. Previous experience includes leading the expansion of a Texas-based healthcare group into Seattle and partnering with large employer groups like Costco and REI.  I'm excited for this class to break into the tech industry and expand my knowledge. Can't wait to see what we can do with emerging AI, too! I'm currently running Windows 11 Home 22H2 on a Microsoft Surface. Looking forward to working with you all!
+👋 Hello, all! My name is Alyson Dorfman (she/her), I'm living in the Lake Tahoe area of California, originally from Seattle. My background is in business development within healthcare. Previous experience includes leading the expansion of a Texas-based healthcare group into Seattle and partnering with large employer groups like Costco and REI.  I'm excited for this class to break into the tech industry and expand my knowledge. Can't wait to see what we can do with emerging AI, too! I'm currently running Windows 11 Home 22H2 on a Microsoft Surface. Looking forward to working with you all!
 
-:computer: Here's a link to [My Github Profile](https://github.com/AlysonDorfman)
+💻 Here's a link to [My Github Profile](https://github.com/AlysonDorfman)
 
 ## Growth Mindset 
 
-:arrow_up: **Growth Mindset** in my own words: It's the view that challenges and setbacks are opportunities for growth and that talents are not innate but can be nurtured and enhanced over time through dedication and a willingness to embrace new experiences. In essence, it's the mindset that fosters a continuous desire for improvement and the pursuit of higher goals.
+⬆️ **Growth Mindset** in my own words: It's the view that challenges and setbacks are opportunities for growth and that talents are not innate but can be nurtured and enhanced over time through dedication and a willingness to embrace new experiences. In essence, it's the mindset that fosters a continuous desire for improvement and the pursuit of higher goals.
 
-:reminder_ribbon: *Reminders* to Myself to maintain a growth mindset: 
+🎗️ *Reminders* to Myself to maintain a growth mindset: 
 
 1. Challenges Foster Growth: View coding challenges as chances to improve. When you encounter a tough coding problem, remember that it's an opportunity to enhance your problem-solving skills.
 
