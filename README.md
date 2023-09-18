@@ -9,3 +9,8 @@
 1. [Read 01 Notes: Learning Markdown](read01.md)
 2. [Read 02 Notes: The Coder's Computer](read02.md)
 3. [Read 03 Notes: Revisions and the Cloud](read03.md)
+4. [Read 04 Notes: TBD](read04.md)
+5. [Read 05 Notes: TBD](read05.md)
+6. [Read 06 Notes: TBD](read06.md)
+7. [Read 07 Notes: TBD](read07.md)
+8. [Read 08 Notes: TBD](read08.md)
