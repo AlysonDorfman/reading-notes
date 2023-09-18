@@ -20,4 +20,4 @@
 
 1. [Read 01 Notes: Learning Markdown](read01.md)
 2. [Read 02 Notes: The Coder's Computer](read02.md)
-3. [Read 03 Notes: Revisions and the Clouse](read03.md)
+3. [Read 03 Notes: Revisions and the Cloud](read03.md)
