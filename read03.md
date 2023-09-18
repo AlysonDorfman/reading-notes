@@ -3,103 +3,41 @@
 # Read: 03 - Revisions and the Cloud
 
 
-## Choosing a Text Editor
+## Version Control:
+Version control, also known as source control or revision control, is a system or methodology used in software development to manage and track changes to files and code over time. It enables multiple collaborators to work on a project simultaneously, keep a history of changes, and facilitates the ability to revert to previous versions if needed. Version control systems (VCS) help maintain code integrity, improve collaboration, and streamline the development process.
 
-### Things to look for: 
+## Cloning in Git:
+In Git, cloning refers to the process of creating a copy of a remote Git repository on your local machine. When you clone a Git repository, you download all the files, commit history, and branches from the remote repository to your local system. This allows you to work on the project locally, make changes, and synchronize those changes with the remote repository. 
 
-* Code Completion 
-* Shorthand (Emmet for HTML and CSS)
-* Syntax Highlighting (Color Coding)
-* Themes
-* Extensions
+The command to clone a Git repository is typically:
+git clone <repository_url>
 
-There exist text editors that come built into operating systems, but they usually lack some of the robust features we're looking for, so it's wise to choose from a third-party option.
 
-### Third-Party Options
+## Command to track and stage files:
+To track and stage files in Git, you typically use the following commands:
+To track a new file:
 
-* NotePad++
-* TextWrangler: outdated, now folded into BB Edit
-* BB Edit
-* Visual Studio Code: Free, made by MSFT, available on most machines, has Emmet
-* Atom: Made by GitHub
-* Brackets: Made by Adobe, only supports HTML, CSS and Java so may be good for beginners. Has live preview.
-* Sublime Text: $70
+**git add <filename>**
 
-### Text Editors vs. IDEs
+To stage all changes in the working directory:
 
-IDE: Integrated Development Enviroment
+**git add .**
 
-An IDE is a text editor **and**, in addition, a file manager, compiler, and debugger. Just like MSFT Outlook is not just email, it's also a calendar, task manager, etc. It's a whole suite of software.
+The git add command stages the changes you want to include in the next commit. Staging is a crucial step before committing because it allows you to select which changes to include in the commit.
 
-## The Command Line
-Your window into the computer.
+## Command to take a snapshot of your changed files:
+To take a snapshot (create a commit) of your changed files in Git, you use the following command:
 
-The Command Line aka The Terminal mirrors your computer's File Folder. Instead of having a graphical user interface (GUI) where you can click around and see what you're doing easily, it has a Command Line Interface (CLI) that functions with the commands you enter through text.
+**git commit -m "Your commit message here"**
+This command saves the staged changes as a new commit with a descriptive message that explains the purpose of the commit. Commits are like snapshots of your code at a specific point in time and form a history of changes.
 
-Within the terminal, there is a prompt, after which you enter your command and any command line arguments or "options," which are simply modifications to your command. 
+## Command to send your changed files to GitHub:
+To send (push) your changed files to a GitHub repository, you typically use the git push command. First, ensure that you have configured your Git repository to point to the correct remote repository (GitHub repository) using the git remote add command if it's not already configured. Then, you can push your changes using:
 
-To open a terminal: Search Terminal in your computer's search bar, and open the application.
+**git push <remote_name> <branch_name>**
 
-Bash is the most common shell, or element responsible for running your commands in the terminal. 
+For example, if you want to push your changes to the "main" branch of a remote repository named "origin" (which is the default name for the remote created when you clone a repository from GitHub):
 
-A shortcut: The terminal stores a list of your commands. So if you want to repeat a recent command, type the up arrow to flip through a bunch of your recent commands. 
+**git push origin main**
 
-## Basic Navigation
-Let's explore the system
-
-Commands:
- * **pwd**: Print Working Directory, where are we in the system since we can't see it
- * **ls**: List of what's here
- * **/etc**: Instead of listing the directories, list their content. When used like this: ls /etc
- * **cd**: Change Directory
- * **file [path]** What type of file
- * **\\**  nullify special meaning of next character
-
-Paths: Absolute = specifies exactly where, Relative = specifies a file name from your current position in the system and will produce a different outcome depending on that position in the system
-Shortcuts: **~** is Home Directory, **.** is Current Directory, **..** is Parent Directory
-
-## More About Files
-Kinda boring, but essential knowledge.
-
-Everything is a file: your keyboard, text, an image, etc. 
-
-Extensionless System: Linux doesn't use file extensions like .png, but you can use the command **file [path]** to find that out.
-
-Linux is Case sensitive, Space sensitive and Quote sensitive.
-
-ls -a
-List the contents of a directory, including hidden files.
-
-## Canvas Questions Answered
-
-Things to look for in a text editor:
-
-* Code Completion 
-* Shorthand (Emmet for HTML and CSS)
-* Syntax Highlighting (Color Coding)
-* Themes
-* Extensions
-
-Commands and their explanations:
-
-pwd (Print Working Directory): This command prints the current directory's full path to the terminal, showing you where you are in the file system.
-
-ls (List): This command lists the files and directories in the current directory.
-
-cd (Change Directory): This command is used to change the current working directory to the specified directory.
-
-mkdir (Make Directory): This command is used to create a new directory/folder in the current location.
-
-touch: This command is used to create an empty file with the given name.
-
-Scenario Explanation:
-
-cd projects: This command changes the current working directory to the "projects" directory.
-
-mkdir new-project: This command creates a new directory called "new-project" inside the "projects" directory.
-
-touch new-project/newfile.md: This command creates an empty file named "newfile.md" inside the "new-project" directory.
-
-cd ..: This command moves back one level in the directory hierarchy, so you would be in the "projects" directory again.
-
-ls projects/new-project: This command lists the contents of the "new-project" directory, showing any files or subdirectories it contains.
+This command will upload your committed changes to the specified branch on GitHub, making them available to collaborators and updating the remote repository.
