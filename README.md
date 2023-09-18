@@ -6,6 +6,8 @@
 
 ## Table of Contents
 
+### Course 102
+
 1. [Read 01 Notes: Learning Markdown](read01.md)
 2. [Read 02 Notes: The Coder's Computer](read02.md)
 3. [Read 03 Notes: Revisions and the Cloud](read03.md)
@@ -14,3 +16,23 @@
 6. [Read 06 Notes: TBD](read06.md)
 7. [Read 07 Notes: TBD](read07.md)
 8. [Read 08 Notes: TBD](read08.md)
+
+
+### Course 201
+
+1. [Read 01 Notes: TBD](201read01.md)
+2. [Read 02 Notes: TBD](201read02.md)
+3. [Read 03 Notes: TBD](201read03.md)
+4. [Read 04 Notes: TBD](201read04.md)
+5. [Read 05 Notes: TBD](201read05.md)
+6. [Read 06 Notes: TBD](201read06.md)
+7. [Read 07 Notes: TBD](201read07.md)
+8. [Read 08 Notes: TBD](201read08.md)
+9. [Read 09 Notes: TBD](201read09.md)
+10. [Read 10 Notes: TBD](201read10.md)
+11. [Read 11 Notes: TBD](201read11.md)
+12. [Read 12 Notes: TBD](201read12.md)
+13. [Read 13 Notes: TBD](201read13.md)
+14. [Read 14 Notes: TBD](201read14.md)
+15. [Read 15 Notes: TBD](201read15.md)
+
