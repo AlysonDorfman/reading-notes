@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-### Course 102
+### Code 102 Reading Notes
 
 1. [Read 01 Notes: Learning Markdown](102-notes/read01.md)
 2. [Read 02 Notes: The Coder's Computer](102-notes/read02.md)
@@ -18,7 +18,7 @@
 8. [Read 08 Notes: TBD](102-notes/read08.md)
 
 
-### Course 201
+### Code 201 Reading Notes
 
 1. [Read 01 Notes: TBD](201-notes/201read01.md)
 2. [Read 02 Notes: TBD](201-notes/201read02.md)
