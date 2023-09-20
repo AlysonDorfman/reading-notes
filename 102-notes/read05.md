@@ -48,36 +48,37 @@ CSS (Cascading Style Sheets) serves the following main purposes:
 **Accessibility:** CSS can be used to enhance accessibility by specifying how content is presented to users with disabilities or using assistive technologies. Proper use of CSS can improve readability and navigation for all users.
 
 2. Three Ways to Insert CSS into Your Project:
-CSS can be added to a web project in the following three ways:
-Inline CSS: You can apply CSS directly within HTML elements using the style attribute. 
+
+- Inline CSS: You can apply CSS directly within HTML elements using the style attribute. 
     For example:
 
-<p style="color: red;">This is a red paragraph.</p>
-Internal CSS: CSS can be placed within the <style> element in the <head> section of an HTML document. This style information applies to the entire document. 
+\<p style="color: red;">This is a red paragraph.</p>
+
+- Internal CSS: CSS can be placed within the \<style> element in the \<head> section of an HTML document. This style information applies to the entire document. 
 
 For example:
 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
+\<!DOCTYPE html>
+\<html>
+\<head>
+    <\style>
         p {
             color: red;
         }
-    </style>
-</head>
-<body>
-    <p>This is a red paragraph.</p>
-</body>
-</html>
+    \</style>
+\</head>
+\<body>
+    \<p>This is a red paragraph.</p>
+\</body>
+\</html>
 
-External CSS: You can create a separate CSS file with a .css extension and link it to your HTML document using the <link> element. This method allows you to apply the same styles across multiple web pages. For example, in a file named styles.css:
+- External CSS: You can create a separate CSS file with a .css extension and link it to your HTML document using the <link> element. This method allows you to apply the same styles across multiple web pages. For example, in a file named styles.css:
 css
 
-/* styles.css */
-p {
+\/* styles.css */
+\p {
     color: red;
-}
+\}
 In the HTML document:
 
 
@@ -95,6 +96,6 @@ In the HTML document:
 To make all <p> elements have red text, you can create the following CSS rule:
 
 \p {
-    \color: red;
+    color: red;
 \}
 This rule sets the color property to red for all \<p> elements, resulting in red text for all paragraphs in your HTML document.
