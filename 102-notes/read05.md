@@ -15,7 +15,7 @@ Presentation of documents to users
 Converting documents into a usable format
 Role of web browsers in displaying content
 
-# CSS Syntax
+## CSS Syntax
 
 Understanding CSS as a rule-based language
 Breakdown of CSS rules, including selectors, properties, and values
@@ -50,8 +50,7 @@ CSS (Cascading Style Sheets) serves the following main purposes:
 2. Three Ways to Insert CSS into Your Project:
 CSS can be added to a web project in the following three ways:
 Inline CSS: You can apply CSS directly within HTML elements using the style attribute. 
-
-For example:
+    For example:
 
 <p style="color: red;">This is a red paragraph.</p>
 Internal CSS: CSS can be placed within the <style> element in the <head> section of an HTML document. This style information applies to the entire document. 
@@ -95,8 +94,7 @@ In the HTML document:
 3. Example of a CSS Rule for Red Text in Paragraphs:
 To make all <p> elements have red text, you can create the following CSS rule:
 
-p {
-    color: red;
-}
+\p {
+    \color: red;
+\}
 This rule sets the color property to red for all \<p> elements, resulting in red text for all paragraphs in your HTML document.
-
