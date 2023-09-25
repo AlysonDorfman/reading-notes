@@ -11,9 +11,9 @@
 1. [Read 01 Notes: Learning Markdown](102-notes/read01.md)
 2. [Read 02 Notes: The Coder's Computer](102-notes/read02.md)
 3. [Read 03 Notes: Revisions and the Cloud](102-notes/read03.md)
-4. [Read 04 Notes: Structure web pages with HTML](102-notes/read04.md)
+4. [Read 04 Notes: Structure Web Pages with HTML](102-notes/read04.md)
 5. [Read 05 Notes: Understanding CSS Basics](102-notes/read05.md)
-6. [Read 06 Notes: Dynamic web pages with JavaScript](102-notes/read06.md)
+6. [Read 06 Notes: Dynamic Web Pages with JavaScript](102-notes/read06.md)
 7. [Read 07 Notes: TBD](102-notes/read07.md)
 8. [Read 08 Notes: TBD](102-notes/read08.md)
 
