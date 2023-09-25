@@ -21,5 +21,7 @@ The "assignement operator in JavaScript is represented by the equals sign /('=')
 
 ## What is information recieved from the user called?
 
-Information recieved from the user in a JavaScript program is typically referred to as "input." This input can come from various sources, such as form fields on a web page, user interactions, or command-line input in a Node.js application. You can caputre and process uper input to make your JavaScript programs interactive and responsive to user actions. 
+Information recieved from the user in a JavaScript program is typically referred to as "input." This input can come from various sources, such as form fields on a web page, user interactions, or command-line input in a Node.js application. You can caputre and process uper input to make your JavaScript programs interactive and responsive to user actions.
+
+Credit: please note, ChatGPT assisted in the writing of these notes.
 
