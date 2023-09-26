@@ -21,7 +21,7 @@ A function is a block of code designed to perform a particular task.
 
 > function functionName(parameter1, parameter2, parameter3) {
 
-    >code to be executed
+> code to be executed
 
 > }
 
@@ -33,6 +33,7 @@ A function is a block of code designed to perform a particular task.
 
 > function myFunction(a,b) {
     return a*b
+    
 > }
 
 ## Local Variables
