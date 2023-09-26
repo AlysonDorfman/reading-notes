@@ -14,7 +14,7 @@
 4. [Read 04 Notes: Structure Web Pages with HTML](102-notes/read04.md)
 5. [Read 05 Notes: Understanding CSS Basics](102-notes/read05.md)
 6. [Read 06 Notes: Dynamic Web Pages with JavaScript](102-notes/read06.md)
-7. [Read 07 Notes: TBD](102-notes/read07.md)
+7. [Read 07 Notes: Programming with JavaScript](102-notes/read07.md)
 8. [Read 08 Notes: TBD](102-notes/read08.md)
 
 
