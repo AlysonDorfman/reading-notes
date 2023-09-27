@@ -15,7 +15,7 @@
 5. [Read 05 Notes: Understanding CSS Basics](102-notes/read05.md)
 6. [Read 06 Notes: Dynamic Web Pages with JavaScript](102-notes/read06.md)
 7. [Read 07 Notes: Programming with JavaScript](102-notes/read07.md)
-8. [Read 08 Notes: TBD](102-notes/read08.md)
+8. [Read 08 Notes: Operators and Loops](102-notes/read08.md)
 
 
 ### Code 201 Reading Notes
