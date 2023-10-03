@@ -1,6 +1,6 @@
 [Back to Homepage](https://alysondorfman.github.io/reading-notes/)
 
-# Read: 07 - Operators and Loops
+# Read: 08 - Operators and Loops
 
 ## Expressions
 
