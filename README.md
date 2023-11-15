@@ -24,7 +24,7 @@
 2. [Read 02 Notes: Basics of HTML, CSS & JS](201-notes/201read02.md)
 3. [Read 03 Notes: HTML Lists, Control Flow with JS, and the CSS Box Model](201-notes/201read03.md)
 4. [Read 04 Notes: HTML Links, JS Functions, and Intro to CSS Layout](201-notes/201read04.md)
-5. [Read 05 Notes: TBD](201-notes/201read05.md)
+5. [Read 05 Notes: HTML Media](201-notes/201read05.md)
 6. [Read 06 Notes: TBD](201-notes/201read06.md)
 7. [Read 07 Notes: TBD](201-notes/201read07.md)
 8. [Read 08 Notes: TBD](201-notes/201read08.md)
